@@ -2,7 +2,7 @@
 
 ## <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/43a476c1-b305-46d8-87c4-1dafd199a72e" />  ABOUT ME
 
-- **NAME:** EDWIN WONG JING HAO,,,
+- **NAME:** EDWIN WONG JING HAO
 - **AGE:** 19
 - **EDUCATION:** BACHELOR OF COMPUTER SCIENCE(DATA ENGINEERING) WITH HONOUR (Y1S1)
 - **UNIVERSITY:** UNIVERSITI TEKNOLOGI MALAYSIA(UTM)
