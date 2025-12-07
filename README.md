@@ -43,5 +43,5 @@
 <b>My GitHub Stats 📈</b>
 
 <a href="http://www.github.com/haoyue-06"><img src="https://github-readme-stats.vercel.app/api?username=haoyue-06&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="haoyue-06's GitHub stats" /></a>
-
+<a href="http://www.github.com/haoyue-06"><img src="https://github-readme-activity-graph.vercel.app/graph?username=haoyue-06&bg_color=191919&color=ffffff&line=14b8a6&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="GitHub Commits Graph" /></a>
 
