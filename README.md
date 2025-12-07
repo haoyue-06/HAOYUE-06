@@ -23,11 +23,11 @@
 <br>
 
 ## <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/3b7da305-4e65-49cf-8a26-ab98b8775d99" />  COURSES
-- SECI1013 DISCRETE STRUCTURE
-- SECJ1013 [Programming Technique I](https://github.com/haoyue-06/My-computer-science-study-experience/tree/main/Programming%20Technique%20I)
-- SECP1513 TECHNOLOGY AND INFORMATION SYSTEM
-- SECR1013 DIGITAL LOGIC
-- ULRS1032 INTEGRITY AND SNTI-CORRUPTION COURSE
+- [SECI1013 DISCRETE STRUCTURE](https://github.com/haoyue-06/My-computer-science-study-experience/tree/main/Discrete%20Structure)
+- [SECJ1013 Programming Technique I](https://github.com/haoyue-06/My-computer-science-study-experience/tree/main/Programming%20Technique%20I)
+- [SECP1513 TECHNOLOGY AND INFORMATION SYSTEM](https://github.com/haoyue-06/My-computer-science-study-experience/tree/main/Technology%20And%20Information%20System)
+- [SECR1013 DIGITAL LOGIC](https://github.com/haoyue-06/My-computer-science-study-experience/tree/main/Digital%20Logic)
+- [ULRS1032 INTEGRITY AND SNTI-CORRUPTION COURSE](https://github.com/haoyue-06/My-computer-science-study-experience/tree/main/Integrity%20And%20Anti-Corruption)
 
 ## 🛠️SKILLS
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a></p>
