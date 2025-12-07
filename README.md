@@ -44,13 +44,4 @@
 
 <a href="http://www.github.com/haoyue-06"><img src="https://github-readme-stats.vercel.app/api?username=haoyue-06&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="haoyue-06's GitHub stats" /></a>
 
-<a href="http://www.github.com/haoyue-06"><img src="https://github-readme-activity-graph.vercel.app/graph?username=haoyue-06&bg_color=191919&color=ffffff&line=14b8a6&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/haoyue-06" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haoyue-06&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/haoyue-06/haoyue-06" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=haoyue-06&repo=haoyue-06&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br>
 
