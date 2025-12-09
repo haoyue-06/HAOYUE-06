@@ -35,7 +35,7 @@
 ## 📫 LINKS
 - **LINKEDLN**: www.linkedin.com/in/edwin-wong-2284b8384
 - **EMAIL:** jinghaoh313@gmail.com
-- **Website:** 
+- **Website:** https://haoyue-06.github.io/personal-website1/
 
 
 ## ⚡**My Badges**
