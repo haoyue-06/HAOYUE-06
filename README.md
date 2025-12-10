@@ -9,10 +9,10 @@
 
 ## 🎓 **My Education Journey**
 ### 🏫 **Primary School** (📅 2013 - 2018)  
-> ✏️ **SJK (C) Kai Chung** — *"Where it all began!"*  
+> ✏️ **SJK (C) Kai Chung** 
 
 ### 🏫 **Secondary School** (📅 2019 - 2024)  
-> 📘 **SMK Kai Chung** — *"Exploring the world of knowledge!"*
+> 📘 **SMK Kai Chung** 
 
 ### 🏫 **Matriculation** (📅 2024 - 2025)  
 > 🎓 **Johor Matriculation College(KMJ)-Physical Science** — *"The foundation for future success!"*
