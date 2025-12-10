@@ -15,10 +15,10 @@
 > 📘 **SMK Kai Chung** 
 
 ### 🏫 **Matriculation** (📅 2024 - 2025)  
-> 🎓 **Johor Matriculation College(KMJ)-Physical Science** — *"The foundation for future success!"*
+> 🎓 **Johor Matriculation College(KMJ)-Physical Science** 
 
 ### 🏛️ **Bachelor of Computer Science (Data Engineering)** (📅 2025 - Present)  
-> 🎓 **University of Technology Malaysia (UTM)** — *"Mastering the Art of Data Engineering!"*
+> 🎓 **University of Technology Malaysia (UTM)** 
 
 <br>
 
