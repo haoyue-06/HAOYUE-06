@@ -9,13 +9,13 @@
 
 ## 🎓 **My Education Journey**
 ### 🏫 **Primary School** (📅 2013 - 2018)  
-> ✏️ **SJK (C) Kai Chung** -UPSR 7A 1B
+> ✏️ **SJK (C) Kai Chung** - UPSR 7A 1B
 
 ### 🏫 **Secondary School** (📅 2019 - 2024)  
-> 📘 **SMK Kai Chung** 
+> 📘 **SMK Kai Chung** - SPM 10A's
 
 ### 🏫 **Matriculation** (📅 2024 - 2025)  
-> 🎓 **Johor Matriculation College(KMJ)-Physical Science** 
+> 🎓 **Johor Matriculation College(KMJ)-Physical Science** - PSPM CGPA 4.00
 
 ### 🏛️ **Bachelor of Computer Science (Data Engineering)** (📅 2025 - Present)  
 > 🎓 **University of Technology Malaysia (UTM)** 
