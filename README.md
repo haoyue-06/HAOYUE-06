@@ -9,7 +9,7 @@
 
 ## 🎓 **My Education Journey**
 ### 🏫 **Primary School** (📅 2013 - 2018)  
-> ✏️ **SJK (C) Kai Chung** 
+> ✏️ **SJK (C) Kai Chung** <br>
 > UPSR 7A 1B
 ### 🏫 **Secondary School** (📅 2019 - 2024)  
 > 📘 **SMK Kai Chung** 
