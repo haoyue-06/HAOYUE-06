@@ -29,13 +29,28 @@
 - [SECR1013 DIGITAL LOGIC](https://github.com/haoyue-06/My-computer-science-study-experience/tree/main/Digital%20Logic)
 - [ULRS1032 INTEGRITY AND SNTI-CORRUPTION COURSE](https://github.com/haoyue-06/My-computer-science-study-experience/tree/main/Integrity%20And%20Anti-Corruption)
 
-## 🧭 Current Position
+## 🧭 Position
+
+### SMK Kai Chung
+- **Pengawas SPBT**  
+  Responsible for textbook management and inventory coordination.
+- **Bendahari Kelab STEM**  
+  Managed club finances and supported STEM-related activities.
+- **Black Belt Holder – Taekwondo Club**  
+  Trained with discipline, consistency, and long-term commitment.
+
+### Johor Matriculation College
+- **Bendahari – Project Moral**  
+  Handled budgeting and expense tracking for moral and community-based projects.
+- **AJK Kecermasan dan Keselamatan – Project KOKO**  
+  Assisted in safety planning, emergency preparedness, and event coordination.
+
+### Universiti Teknologi Malaysia
+- **Data Engineering Students**
+  
 ## 📜 Certificates
+
 ## 🛠️ Projects
-### 🔹 AI Chatbox
-- Built with **HTML / CSS / JavaScript**
-- Integrated with **AI API**
-- Focus: clean UI + meaningful interaction
 
 ## 🛠️SKILLS
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a></p>
