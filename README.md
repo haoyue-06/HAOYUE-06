@@ -50,7 +50,9 @@
 - **Data Engineering Students**
   
 ## 📜 Certificates
-- IBM SKILL BUILD COURSE ONLINE
+- IBM SKILL BUILD COURSE ONLINE<br>
+    -Your Future in AI: The Job Landscape(MDLPT-227)<br>
+    -Introduction to Artificial Intelligence(MDLPT-222)
 
 ## 🛠️ Projects
 - [MENTAL HEALTH SUPPORT APP](https://github.com/limlijing/Mental-Health-Support-)
